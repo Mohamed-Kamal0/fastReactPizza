@@ -4,7 +4,7 @@ A fast-food style pizza ordering frontend built with React — users can browse 
 
 ## 🚀 Features
 - Browse pizza menu with sizes, prices, and descriptions.
-- Add pizzas to cart and update quantities.
+- Add pizzas to cart and update quantities,Make order and use your location.
 - Calculate total price and view order summary.
 - Responsive UI for mobile and desktop.
 - Example data loading with React Router loaders / async data fetching.
